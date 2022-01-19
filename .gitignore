@@ -200,3 +200,4 @@ cython_debug/
 .vscode/
 *.mp4
 *.wav
+.idea/
